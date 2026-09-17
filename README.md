@@ -124,13 +124,24 @@ Building projects while progressing from fundamentals to advanced AI systems.
 
 ---
 
-## 📈 Contribution Activity
+## 🐍 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu2007verma&bg_color=00000000&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    width="95%"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/priyanshu2007verma/priyanshu2007verma/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/priyanshu2007verma/priyanshu2007verma/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/priyanshu2007verma/priyanshu2007verma/output/github-contribution-grid-snake.svg"
+      width="95%"
+    />
+  </picture>
 </p>
 
 ---
