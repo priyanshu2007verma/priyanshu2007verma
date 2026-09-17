@@ -168,7 +168,7 @@ Building projects while progressing from fundamentals to advanced AI systems.
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=grey" />
+  <img src="https://komarev.com/ghpvc/?username=priyanshu2007verma&style=flat-square&color=grey" />
 </p>
 
 <p align="center">
