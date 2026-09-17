@@ -98,29 +98,10 @@ Building projects while progressing from fundamentals to advanced AI systems.
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-
-<a href="https://github.com/priyanshu2007verma">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshu2007verma&show_icons=true&hide_border=true&theme=transparent" />
-</a>
-
-</p>
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=priyanshu2007verma&theme=transparent&hide_border=true" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu2007verma&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 ---
