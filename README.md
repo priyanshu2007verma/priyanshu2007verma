@@ -118,7 +118,7 @@ Building projects while progressing from fundamentals to advanced AI systems.
 ## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu2007verma&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 ---
